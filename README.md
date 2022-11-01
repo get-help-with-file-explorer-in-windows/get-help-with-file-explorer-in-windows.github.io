@@ -1,7 +1,7 @@
 # Get Help with file Explorer in Windows
 
 
-[![get help with file explorer in windows](redd.png)](https://get-help-with-file-explorer-in-windows.github.io/)
+[![get help with file explorer in windows](redd.png)](https://computer-solved.com/get-help-with-file-explorer-in-windows/)
 
 
 File Explorer is an integrated function in every Windows operating system. Microsoft rebranded Windows Explorer in Windows 10 as a File Explorer, but the core of the application is the same as Windows Explorer in Windows 7.
